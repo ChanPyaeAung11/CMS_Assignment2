@@ -24,3 +24,10 @@
 [12-Sep-2020 08:26:28 UTC] PHP Notice:  Undefined variable: error in /srv/www/wordpress-one/public_html/wp-admin/theme-editor.php on line 277
 [12-Sep-2020 08:28:07 UTC] PHP Notice:  Undefined variable: error in /srv/www/wordpress-one/public_html/wp-admin/theme-editor.php on line 159
 [12-Sep-2020 08:28:07 UTC] PHP Notice:  Undefined variable: error in /srv/www/wordpress-one/public_html/wp-admin/theme-editor.php on line 277
+[12-Sep-2020 09:03:10 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
+[12-Sep-2020 09:05:44 UTC] PHP Notice:  Undefined index: form_id in /srv/www/wordpress-one/public_html/wp-content/plugins/ninja-forms/includes/Widget.php on line 27
+[12-Sep-2020 09:05:44 UTC] PHP Notice:  Undefined index: display_title in /srv/www/wordpress-one/public_html/wp-content/plugins/ninja-forms/includes/Widget.php on line 31
+[12-Sep-2020 09:05:44 UTC] PHP Notice:  Undefined index: form_id in /srv/www/wordpress-one/public_html/wp-content/plugins/ninja-forms/includes/Widget.php on line 36
+[12-Sep-2020 09:07:32 UTC] PHP Notice:  Undefined index: form_id in /srv/www/wordpress-one/public_html/wp-content/plugins/ninja-forms/includes/Widget.php on line 27
+[12-Sep-2020 09:07:32 UTC] PHP Notice:  Undefined index: display_title in /srv/www/wordpress-one/public_html/wp-content/plugins/ninja-forms/includes/Widget.php on line 31
+[12-Sep-2020 09:07:32 UTC] PHP Notice:  Undefined index: form_id in /srv/www/wordpress-one/public_html/wp-content/plugins/ninja-forms/includes/Widget.php on line 36
