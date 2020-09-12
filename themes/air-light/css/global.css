@@ -1863,9 +1863,8 @@ form.search-form .search-submit {
 }
 
 .site-title .logo-name {
-  content: 'Air';
   display: block;
-  text-transform: lowercase;
+  text-transform: uppercase;
   letter-spacing: .1em;
   font-weight: 400;
   color: #fff;

@@ -15,7 +15,7 @@ namespace Air_Light;
 
         <h1 class="site-title">
           <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home">
-            <span class="logo-name">Hello there</span>
+            <span class="logo-name">Doctor's Connect</span>
             <span class="screen-reader-text"><?php bloginfo( 'name' ); ?></span>
             <?php include get_theme_file_path( THEME_SETTINGS['logo'] ); ?>
           </a>
@@ -25,7 +25,7 @@ namespace Air_Light;
 
           <p class="site-title">
             <a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home">
-              <span class="logo-name">Air</span>
+              <span class="logo-name">Doctor's Connect</span>
               <span class="screen-reader-text"><?php bloginfo( 'name' ); ?></span>
               <?php include get_theme_file_path( THEME_SETTINGS['logo'] ); ?>
             </a>
