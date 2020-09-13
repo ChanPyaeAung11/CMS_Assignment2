@@ -33,39 +33,4 @@
 [12-Sep-2020 09:07:32 UTC] PHP Notice:  Undefined index: form_id in /srv/www/wordpress-one/public_html/wp-content/plugins/ninja-forms/includes/Widget.php on line 36
 [13-Sep-2020 01:33:16 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /srv/www/wordpress-one/public_html/wp-includes/class-wp-list-util.php on line 159
 [13-Sep-2020 01:33:16 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /srv/www/wordpress-one/public_html/wp-includes/class-wp-list-util.php on line 159
-[13-Sep-2020 01:43:57 UTC] PHP Notice:  Undefined variable: error in /srv/www/wordpress-one/public_html/wp-admin/theme-editor.php on line 159
-[13-Sep-2020 01:43:57 UTC] PHP Notice:  Undefined variable: error in /srv/www/wordpress-one/public_html/wp-admin/theme-editor.php on line 277
-[13-Sep-2020 01:45:29 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
-[13-Sep-2020 01:45:57 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
-[13-Sep-2020 01:47:14 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
-[13-Sep-2020 01:52:29 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
-[13-Sep-2020 01:59:49 UTC] PHP Notice:  Undefined index: editor_post_id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 180
-[13-Sep-2020 01:59:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on boolean in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:259
-Stack trace:
-#0 /srv/www/wordpress-one/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(180): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(NULL, Array)
-#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
-#2 /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
-#3 /srv/www/wordpress-one/public_html/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
-#4 /srv/www/wordpress-one/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->ap in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 259
-[13-Sep-2020 02:04:10 UTC] PHP Notice:  Undefined index: editor_post_id in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 180
-[13-Sep-2020 02:04:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on boolean in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:259
-Stack trace:
-#0 /srv/www/wordpress-one/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(180): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(NULL, Array)
-#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
-#2 /srv/www/wordpress-one/public_html/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
-#3 /srv/www/wordpress-one/public_html/wp-includes/class-wp-hook.php(287): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
-#4 /srv/www/wordpress-one/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->ap in /srv/www/wordpress-one/public_html/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 259
-[13-Sep-2020 02:11:14 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
-[13-Sep-2020 02:13:26 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
-[13-Sep-2020 02:17:50 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
-[13-Sep-2020 02:18:12 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
-[13-Sep-2020 02:18:13 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
-[13-Sep-2020 03:03:25 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
-[13-Sep-2020 03:03:31 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
-[13-Sep-2020 03:03:59 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
-[13-Sep-2020 03:06:37 UTC] PHP Notice:  Undefined variable: error in /srv/www/wordpress-one/public_html/wp-admin/theme-editor.php on line 159
-[13-Sep-2020 03:06:37 UTC] PHP Notice:  Undefined variable: error in /srv/www/wordpress-one/public_html/wp-admin/theme-editor.php on line 277
-[13-Sep-2020 03:06:44 UTC] PHP Notice:  Undefined variable: error in /srv/www/wordpress-one/public_html/wp-admin/theme-editor.php on line 159
-[13-Sep-2020 03:06:45 UTC] PHP Notice:  Undefined variable: error in /srv/www/wordpress-one/public_html/wp-admin/theme-editor.php on line 277
-[13-Sep-2020 03:07:20 UTC] PHP Notice:  Undefined variable: error in /srv/www/wordpress-one/public_html/wp-admin/theme-editor.php on line 159
-[13-Sep-2020 03:07:20 UTC] PHP Notice:  Undefined variable: error in /srv/www/wordpress-one/public_html/wp-admin/theme-editor.php on line 277
+[13-Sep-2020 02:11:52 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
