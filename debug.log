@@ -63,3 +63,13 @@
 [13-Sep-2020 06:22:11 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
 [13-Sep-2020 06:22:28 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
 >>>>>>> Stashed changes
+[13-Sep-2020 06:40:02 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
+[13-Sep-2020 06:48:54 UTC] PHP Notice:  Undefined offset: 0 in /srv/www/wordpress-one/public_html/wp-content/themes/air-light/inc/hooks/gutenberg.php on line 27
+[13-Sep-2020 06:49:10 UTC] PHP Notice:  Undefined offset: 0 in /srv/www/wordpress-one/public_html/wp-content/themes/air-light/inc/hooks/gutenberg.php on line 27
+[13-Sep-2020 06:50:57 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
+[13-Sep-2020 06:51:05 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
+[13-Sep-2020 06:51:22 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
+[13-Sep-2020 07:53:33 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
+[13-Sep-2020 07:55:00 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
+[13-Sep-2020 07:55:15 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
+[13-Sep-2020 08:02:14 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
