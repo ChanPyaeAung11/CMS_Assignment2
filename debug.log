@@ -34,3 +34,7 @@
 [13-Sep-2020 01:33:16 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /srv/www/wordpress-one/public_html/wp-includes/class-wp-list-util.php on line 159
 [13-Sep-2020 01:33:16 UTC] PHP Notice:  Undefined property: stdClass::$plugin in /srv/www/wordpress-one/public_html/wp-includes/class-wp-list-util.php on line 159
 [13-Sep-2020 02:11:52 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
+[13-Sep-2020 03:25:46 UTC] PHP Notice:  Undefined variable: error in /srv/www/wordpress-one/public_html/wp-admin/theme-editor.php on line 159
+[13-Sep-2020 03:25:47 UTC] PHP Notice:  Undefined variable: error in /srv/www/wordpress-one/public_html/wp-admin/theme-editor.php on line 277
+[13-Sep-2020 03:25:53 UTC] PHP Notice:  Undefined variable: error in /srv/www/wordpress-one/public_html/wp-admin/theme-editor.php on line 159
+[13-Sep-2020 03:25:53 UTC] PHP Notice:  Undefined variable: error in /srv/www/wordpress-one/public_html/wp-admin/theme-editor.php on line 277
