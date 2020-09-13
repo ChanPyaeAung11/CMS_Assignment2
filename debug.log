@@ -146,3 +146,4 @@
 [13-Sep-2020 08:09:46 UTC] PHP Notice:  Undefined variable: error in /srv/www/wordpress-one/public_html/wp-admin/theme-editor.php on line 277
 >>>>>>> 622d62a1036143076e16095c9a8f42501e13396d
 [13-Sep-2020 10:02:25 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
+[13-Sep-2020 10:06:36 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
