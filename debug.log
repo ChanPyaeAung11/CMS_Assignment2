@@ -156,3 +156,5 @@
 [13-Sep-2020 09:54:21 UTC] PHP Notice:  Undefined index: display_title in /srv/www/wordpress-one/public_html/wp-content/plugins/ninja-forms/includes/Widget.php on line 31
 [13-Sep-2020 09:54:21 UTC] PHP Notice:  Undefined index: form_id in /srv/www/wordpress-one/public_html/wp-content/plugins/ninja-forms/includes/Widget.php on line 36
 >>>>>>> cd9079df1d260c5ae5f1d5969a328f93ba7486e1
+[14-Sep-2020 07:10:57 UTC] PHP Notice:  Trying to get property 'error' of non-object in /srv/www/wordpress-one/public_html/wp-admin/includes/ajax-actions.php on line 2628
+[14-Sep-2020 07:10:57 UTC] PHP Notice:  Trying to get property 'error' of non-object in /srv/www/wordpress-one/public_html/wp-admin/includes/ajax-actions.php on line 2628
