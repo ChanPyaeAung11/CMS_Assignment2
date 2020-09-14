@@ -159,3 +159,4 @@
 [14-Sep-2020 07:10:57 UTC] PHP Notice:  Trying to get property 'error' of non-object in /srv/www/wordpress-one/public_html/wp-admin/includes/ajax-actions.php on line 2628
 [14-Sep-2020 07:10:57 UTC] PHP Notice:  Trying to get property 'error' of non-object in /srv/www/wordpress-one/public_html/wp-admin/includes/ajax-actions.php on line 2628
 [14-Sep-2020 07:19:23 UTC] PHP Deprecated:  media_buttons_context is <strong>deprecated</strong> since version 3.5.0! Use media_buttons instead. in /srv/www/wordpress-one/public_html/wp-includes/functions.php on line 5148
+[14-Sep-2020 08:22:27 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Network is unreachable in /srv/www/wordpress-one/public_html/wp-includes/wp-db.php on line 1635
